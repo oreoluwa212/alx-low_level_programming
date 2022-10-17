@@ -1,11 +1,9 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
 
 /**
- * main = Annoying
+ * main - annoying
  *
  * Return: 0
  */
